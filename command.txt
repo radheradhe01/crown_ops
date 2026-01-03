@@ -1,0 +1,1 @@
+scp root@70.36.99.129:/var/www/html/opensips-cp.tar.gz /Users/bhaveshvarma/Pictures/CROWN_SOLUTIONS/ops
